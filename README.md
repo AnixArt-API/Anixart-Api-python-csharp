@@ -53,4 +53,4 @@ var res = client.Post(request);
 6) Получаем токен и сохраняем в файл tokens.txt
 
 ## Связь
-Telegram: <a href="t.me/andrushku">t.me/andrushku</a>
+Telegram: <a href="https://t.me/andrushku">t.me/andrushku</a>
