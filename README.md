@@ -52,4 +52,5 @@ var res = client.Post(request);
 5) Отправляем код и все нужные данные на auth/verify
 6) Получаем токен и сохраняем в файл tokens.txt
 
-
+## Связь
+Telegram: t.me/andrushku
